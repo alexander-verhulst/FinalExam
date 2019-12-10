@@ -1,0 +1,8 @@
+Describe the Stack Data Structure:
+
+-A stack data structure can be thought as a linear structure. Imagine a "stack" of envelopes and that is similar to
+a stack data structure. This data structure follows the LIFO approach (Last In, First Out). So items that are
+"added" to the stack get placed under newer items placed on the stack. The item that was placed last will be on the top.
+The item that was placed first will be placed at the very bottom of the stack. To access the elements of the stack
+you use several methods such as push, pop, peak, isEmpty, isFull. An explanation of the them is below:
+
