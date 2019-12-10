@@ -24,9 +24,10 @@ public class Main {
         myList.insertFirst(90);
         myList.insertFirst(88); //displayed first and goes up
         myList.insertLast(999999999); //puts the value at the end of list, after 100
-
         myList.displayList();
-        
+
+
+        System.out.println();
         System.out.println(myList.searchList(100));
 
 

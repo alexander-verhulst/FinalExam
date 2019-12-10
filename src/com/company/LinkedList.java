@@ -57,6 +57,17 @@ public class LinkedList {
         System.out.println();
     }
 
+//    public void displayOdd() {
+//        Node current = first;
+//        while (current != null) {
+//           if (current %2 != 0) {
+//               current.displayNode();
+//               current = current.next;
+//           }
+//        }
+//        System.out.println();
+//    }
+
 
     public boolean searchList( int x) {
         System.out.println("Is it in the list: ");
